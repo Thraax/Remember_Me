@@ -1,2 +1,2 @@
 # Remember_Me
- Remeber me is a python app to remember yout accounts or links and retrieve them easly
+ Remeber me is a simple Python app to remember yout accounts or links and retrieve them easly with certain key words.
