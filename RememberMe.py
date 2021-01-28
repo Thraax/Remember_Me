@@ -425,7 +425,7 @@ while operation != "12":
         break
 
     else:
-        print("Enter correct input (1:11) \n")
+        print("Enter correct input (1:12) \n")
 
 dataCursor.close()
 connection.close()
